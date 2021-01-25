@@ -5,8 +5,8 @@
  *      Author: 我是一个酸菜鱼
  */
 
-#ifndef INC_ADXL355_H_
-#define INC_ADXL355_H_
+#ifndef ADXL355_H_
+#define ADXL355_H_
 
 #ifdef __cplusplus
   extern "C" {
